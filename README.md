@@ -1,57 +1,39 @@
 # Abhishek Singh
 
-Senior full-stack and mobile engineer building applied AI products.
+I build AI products close to the real user.
 
-I have 10 years of production engineering experience across Android, React Native, Node.js, Firebase, and product engineering. Most recently, I led mobile engineering for OTTPlay via Wrocus/HT Media at 10M+ download scale. Over the last 18 months, I have moved deeply into applied AI by shipping WittyKeys and building full-stack LLM systems around outreach automation, RAG support, campaign optimization, evaluation, and observability.
+My base is 10 years of production engineering: Android, React Native, Node.js, Firebase, AWS, founders, product teams, and mobile delivery at OTTPlay scale through Wrocus / HT Media. My current chapter is applied AI: taking that product-engineering background and using it to build LLM systems that have to deal with latency, trust, billing, evals, logs, permissions, and release confidence.
 
-## Current Focus
+## Current Chapter
 
-I am looking for senior Applied AI Engineer, AI Product Engineer, Founding Engineer, Forward Deployed Engineer, or Senior Full-Stack Engineer roles where the work is close to users and the quality bar matters.
+WittyKeys is the center of the story right now: an Android AI keyboard and writing assistant on Google Play, powered by Claude through Firebase.
 
-## Proof
+Building it made the AI work feel real. The hard parts were not just prompt calls. They were onboarding, keyboard trust, overlay permissions, subscription states, quota behavior, Play Store release work, regression checks, and observability.
 
-| Project | Status | Why it matters |
-| --- | --- | --- |
-| WittyKeys | Production | Android AI keyboard and overlay assistant powered by Claude, live on Google Play |
-| OTTPlay / Wrocus | Production leadership | Led mobile engineering at 10M+ download scale |
-| AI-SDR | Deployed / dogfooding / human-in-loop | Full-stack AI workflow system for campaign setup, LinkedIn intelligence, approvals, and outreach drafting |
-| SFOS / Eval Layer | Operating-system proof | Golden tests, LLM-as-judge, trace design, observability, and multi-agent development process |
-| Support Brain | Development | RAG support assistant with citations, confidence scoring, escalation, and gap analytics |
-| Campaign Brain | Demo-seeded | Analytics-to-action and A/B testing automation |
-
-## What I Build
-
-- Production mobile AI products that survive real users, billing, permissions, and release constraints.
-- Human-in-loop AI workflow systems where trust and account safety matter.
-- RAG systems with citations, confidence scoring, escalation, and gap-detection loops.
-- Evaluation and observability layers for LLM products: golden tests, E2E checks, LLM-as-judge, traces, and quality monitoring.
-- Full-stack product surfaces: React/Vite dashboards, Firebase Cloud Functions, Firestore, Android, React Native, Node.js, and TypeScript.
+Portfolio: https://wittykeys.com/abhishek  
+WittyKeys: https://wittykeys.com  
+LinkedIn: https://linkedin.com/in/abhishek-wittykeys
 
 ## Selected Work
 
-### WittyKeys
+| Work | Where it sits | What I care about in it |
+| --- | --- | --- |
+| WittyKeys | Live Android AI product | Mobile AI UX, Claude/Firebase integration, billing, permissions, release confidence |
+| AI-SDR | Human-in-loop workflow | Campaign setup, research, draft generation, review queues, regeneration, safe approval boundaries |
+| Support Brain | RAG support system | Retrieval, citations, confidence scoring, escalation, and knowledge-gap loops |
+| Campaign Brain | Analytics and experimentation | Recommendations, campaign performance, A/B testing, and analytics-to-action workflows |
+| SFOS / eval layer | Operating layer | Golden checks, LLM-as-judge, traces, logs, and quality habits around AI products |
 
-WittyKeys is my lead production AI artifact: an Android AI keyboard and overlay assistant for bilingual/Hinglish communication. It integrates Claude through a Firebase backend and includes Play Store release work, subscription/billing flows, quota/paywall handling, privacy-sensitive permission design, UI revamp, and regression testing.
+## How I Like To Build
 
-- Portfolio: https://wittykeys.com/abhishek
-- Website: https://wittykeys.com
-- Play Store: https://play.google.com/store/apps/details?id=project.witty.keys&hl=en_US
+- Start from the user action, not the model capability.
+- Keep humans in the loop where trust, account safety, or brand voice matters.
+- Label work honestly: live product, working system, development-stage, demo-seeded, or planned.
+- Treat evals, logs, QA, and release artifacts as part of the product, not paperwork.
+- Prefer useful systems over demos that only work once.
 
-### AI-SDR
+## What I Am Looking For
 
-AI-SDR is my flagship applied-AI workflow system. It turns campaign setup, prospect workflow, LinkedIn intelligence, message drafting, approval queues, regeneration, and observability into a human-in-loop outreach system. Final sends stay human-approved.
+Senior Applied AI Engineer, AI Product Engineer, Forward Deployed Engineer, Founding Engineer, or Senior Full-Stack Engineer roles where I can combine product taste, full-stack execution, mobile depth, and hands-on LLM systems work.
 
-### SFOS / Eval / Observability
-
-My differentiator is not just calling LLM APIs. I care about the operating loop around AI products: prompt quality, release confidence, observability, traces, cost, privacy, and user trust.
-
-## Principles
-
-- Production AI is product engineering plus evaluation, not just model access.
-- Keep humans in the loop where trust, compliance, or account safety matter.
-- Label proof honestly: production, deployed, prototype, development, demo-seeded, mocked, planned.
-- Prefer useful systems over polished demos that only work once.
-
-Contact: abhishek8938@gmail.com  
-LinkedIn: https://linkedin.com/in/abhishek-wittykeys  
-Portfolio: https://wittykeys.com/abhishek
+The work I am most drawn to: AI products that are close to users, operationally messy, and meaningful enough that quality matters.
