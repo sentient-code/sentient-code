@@ -1,41 +1,47 @@
 # Abhishek Singh
 
-Senior full-stack and mobile engineer building AI products that survive contact with real users.
+**Senior full-stack and mobile engineer building applied AI products that survive real users, release work, and messy production constraints.**
 
-For the last 10 years I have shipped production software across Android, React Native, Node.js, Firebase, and AWS. I have worked with founders, product teams, and large consumer mobile surfaces, including OTTPlay scale through Wrocus / HT Media.
+I have spent 10 years shipping production software across Android, React Native, Node.js, Firebase, and AWS. My recent work moves that foundation into applied AI: mobile assistants, human-reviewed workflows, RAG support systems, campaign intelligence, and the evaluation/observability layer around LLM products.
 
-My current chapter is applied AI product engineering: not demos, not prompt wrappers, but full product loops with onboarding, latency, billing, permissions, evals, logs, QA, and release confidence.
+<p>
+  <a href="https://wittykeys.com/abhishek"><strong>Portfolio</strong></a> ·
+  <a href="https://wittykeys.com"><strong>WittyKeys</strong></a> ·
+  <a href="https://linkedin.com/in/abhishek-wittykeys"><strong>LinkedIn</strong></a>
+</p>
 
-## Selected Work
+---
 
-**WittyKeys**  
-An Android AI keyboard and writing assistant on Google Play. It taught me the messy parts of mobile AI: keyboard trust, overlay permissions, subscription states, quota behavior, Play Store release work, real-device regression, Claude/Firebase integration, and user-facing polish.
+## What I Am Known For
 
-**AI-SDR**  
-A human-reviewed outreach workspace for campaign setup, research, draft generation, regeneration, approvals, and follow-up. The important design choice: AI helps the workflow move faster, but a person stays in charge of final sends and account-sensitive actions.
+- Building close to the user: Android, React Native, dashboards, onboarding, permissions, billing, and release loops.
+- Turning AI features into product systems: prompts, state, review queues, logs, evals, and trust boundaries.
+- Moving across the stack without losing product judgment.
+- Caring about the boring parts that make software dependable after the demo.
 
-**Support Brain**  
-A RAG support assistant pattern with citations, confidence scoring, escalation, and knowledge-gap analytics. The interesting part is not just answering questions; it is knowing when the answer is weak and turning that weakness into an improvement loop.
+## Selected Systems
 
-**Campaign Brain**  
-Campaign analytics, recommendations, segmentation, and A/B testing workflows. This is where product data becomes action instead of another dashboard people forget to open.
+| System | Status | What it says about my work |
+| --- | --- | --- |
+| **WittyKeys** | Live Android AI product | Claude-powered writing help inside the keyboard and reply flow, with Firebase, Play Billing, quota states, onboarding, observability, and Play Store release work. |
+| **AI-SDR** | Deployed human-reviewed workflow | Campaign setup, prospect research, draft generation, regeneration, approval queues, follow-up, analytics, and browser E2E boundaries where final sends stay human-approved. |
+| **Support Brain** | Development-stage RAG system | Retrieval, citations, confidence scoring, escalation, knowledge-gap analytics, and the system-design decisions behind useful support automation. |
+| **Campaign Brain** | Demo-seeded analytics system | Recommendations, campaign calendars, live performance, A/B tests, and analytics-to-action workflows. |
+| **SFOS / eval layer** | Operating habit | Golden checks, LLM-as-judge reviews, trace design, logs, release review, and privacy-aware public artifacts. |
 
-**SFOS / eval layer**  
-My operating layer for AI product quality: golden checks, LLM-as-judge reviews, traces, logs, release review, and the habit of treating evaluation as product work.
+## Current Chapter
 
-## The Shape Of My Work
+WittyKeys is the center of my applied-AI work right now: an Android AI keyboard and writing assistant on Google Play. It taught me that the hard parts are rarely just model calls. They are setup trust, Android surfaces, billing behavior, quota design, release confidence, logs, evals, and product polish.
 
-- I like building close to the user, where product judgment matters.
-- I can move across app, backend, dashboard, Firebase, cloud functions, QA, and release work.
-- I care about the unglamorous layer: logs, failures, edge cases, permissions, billing, and observability.
-- I prefer honest systems over flashy demos that only work once.
-- I am strongest where senior product engineering and hands-on AI systems meet.
+AI-SDR, Support Brain, and Campaign Brain sit around it as focused systems: outreach workflows, RAG support operations, campaign intelligence, and the quality loops needed to make AI products understandable.
 
-## Links
+## How I Like To Build
 
-Portfolio: https://wittykeys.com/abhishek  
-WittyKeys: https://wittykeys.com  
-LinkedIn: https://linkedin.com/in/abhishek-wittykeys
+1. Start from the user action, not the model capability.
+2. Keep humans in the loop where trust, account safety, or brand voice matters.
+3. Make state visible: queues, logs, traces, dashboards, and release notes.
+4. Test the experience, not only the function call.
+5. Prefer useful systems over demos that only work once.
 
 ## Looking For
 
