@@ -6,7 +6,7 @@ For the last 10 years I have shipped production software across Android, React N
 
 My current chapter is applied AI product engineering: not demos, not prompt wrappers, but full product loops with onboarding, latency, billing, permissions, evals, logs, QA, and release confidence.
 
-## What I Am Building Now
+## Selected Work
 
 **WittyKeys**  
 An Android AI keyboard and writing assistant on Google Play. It taught me the messy parts of mobile AI: keyboard trust, overlay permissions, subscription states, quota behavior, Play Store release work, real-device regression, Claude/Firebase integration, and user-facing polish.
