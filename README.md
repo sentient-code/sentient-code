@@ -5,8 +5,8 @@
 I have spent 10 years shipping production software across Android, React Native, Node.js, Firebase, and AWS. My recent work moves that foundation into applied AI: mobile assistants, human-reviewed workflows, RAG support systems, campaign intelligence, and the evaluation/observability layer around LLM products.
 
 <p>
-  <a href="https://wittykeys.com/abhishek"><strong>Portfolio</strong></a> ·
-  <a href="https://wittykeys.com"><strong>WittyKeys</strong></a> ·
+  <a href="https://wittykeys.com/abhishek"><strong>Portfolio</strong></a> |
+  <a href="https://wittykeys.com"><strong>WittyKeys</strong></a> |
   <a href="https://linkedin.com/in/abhishek-wittykeys"><strong>LinkedIn</strong></a>
 </p>
 
