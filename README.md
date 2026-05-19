@@ -2,9 +2,9 @@
 
 # Hey, I'm Abhishek 👋
 
-### Senior full-stack + mobile engineer building applied AI products that survive the real world.
+### Senior full-stack product engineer building web, mobile, growth, and applied AI systems that survive the real world.
 
-I like the messy middle: Android permissions, billing states, release work, user trust, LLM quality, logs, QA automation, and the operating system around shipping AI products as one person.
+I like the messy middle: web apps, ERPs, video streaming products, mobile apps, product analytics, retention/conversion campaigns, user feedback, LLM quality, logs, QA automation, and the operating system around shipping useful products.
 
 <p>
   <a href="https://wittykeys.com/abhishek"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-wittykeys.com%2Fabhishek-0891B2?style=for-the-badge"></a>
@@ -13,7 +13,7 @@ I like the messy middle: Android permissions, billing states, release work, user
   <a href="https://linkedin.com/in/abhishek-wittykeys"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-`Android` · `iOS` · `React Native` · `Next.js` · `NestJS` · `Node.js` · `Firebase` · `AWS` · `MongoDB` · `Pinecone` · `Multi-agent orchestration` · `tmux` · `QA Automation` · `SFOS`
+`React.js` · `Next.js` · `React Native` · `Android` · `iOS` · `NestJS` · `Node.js` · `Firebase` · `AWS` · `MongoDB` · `Product Analytics` · `Growth Campaigns` · `Pinecone` · `Multi-agent orchestration` · `tmux` · `QA Automation` · `SFOS`
 
 </div>
 
@@ -29,11 +29,13 @@ I like the messy middle: Android permissions, billing states, release work, user
 
 ## ✦ The Short Version
 
-I have spent **10 years** shipping production software across Android, React Native, Node.js, Firebase, and AWS. Recently I have been turning that senior engineering base toward applied AI: not only model calls, but complete product systems around them.
+I have spent **10 years** shipping product software across web apps, ERPs, video-streaming platforms, mobile apps, backend systems, analytics, user-feedback loops, and growth campaigns. Recently I have been turning that senior product engineering base toward applied AI: not only model calls, but complete product systems around them.
 
-My current body of work is centered on **WittyKeys**, a public Android AI keyboard and writing assistant on Google Play, plus a set of AI workflow systems around outreach, RAG support, campaign analytics, and my own solo-founder operating system.
+My current body of work is centered on **WittyKeys**, a public Android AI keyboard and writing assistant on Google Play, plus a set of AI workflow systems around outreach, RAG support, campaign analytics, automated QA, evaluation, and my own solo-founder operating system.
 
 > The part I care about most: making AI products useful after the demo, when real users, weird states, billing, logs, regressions, and release decisions show up.
+
+Before this AI chapter, I built and improved products through the full loop: collect engagement events, survey users, understand where people find value, plan sprints around that signal, run retention/conversion campaigns, and move the product in the direction users are actually choosing.
 
 ---
 
@@ -94,6 +96,7 @@ idea -> plan -> build -> capture -> compare -> test -> score -> trace -> ship ->
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=111)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=111)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -112,6 +115,12 @@ idea -> plan -> build -> capture -> compare -> test -> score -> trace -> ship ->
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-text--embedding--3--small-412991?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-Hybrid%20Search%20%2B%20Reranking-0891B2?style=flat)
+![ERP Systems](https://img.shields.io/badge/ERP%20Systems-Internal%20Tools-64748B?style=flat)
+![Video Streaming](https://img.shields.io/badge/Video%20Streaming-Web%20%2B%20Mobile-DC2626?style=flat)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-Engagement%20Events-0F766E?style=flat)
+![User Feedback](https://img.shields.io/badge/User%20Feedback-Surveys%20%2B%20Research-7C3AED?style=flat)
+![Retention Campaigns](https://img.shields.io/badge/Retention-Campaigns-2563EB?style=flat)
+![Conversion Campaigns](https://img.shields.io/badge/Conversion-Campaigns-D97706?style=flat)
 ![Multi-agent orchestration](https://img.shields.io/badge/Multi--agent-Orchestration-D97706?style=flat)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-Android%20Tests-3DDC84?style=flat)
@@ -124,13 +133,13 @@ idea -> plan -> build -> capture -> compare -> test -> score -> trace -> ship ->
 
 ## 🎯 Where I Fit
 
-I am looking for senior roles where product taste, full-stack execution, mobile depth, and applied-AI judgment matter together:
+I am looking for senior roles where product taste, full-stack execution, web/mobile depth, analytics, growth loops, and applied-AI judgment matter together:
 
 - Senior Applied AI Engineer
 - AI Product Engineer
 - Forward Deployed Engineer
 - Founding Engineer
-- Senior Full-Stack / Mobile AI Engineer
+- Senior Full-Stack Product Engineer
 
 ---
 
