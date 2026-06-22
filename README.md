@@ -2,7 +2,7 @@
 
 # Abhishek Singh
 
-### Founding Engineer | Full-Stack Mobile & Web Engineer | Product Ownership | React Native, React, Node.js/NestJS | OTTPlay 10M+ Downloads
+### Senior Mobile / React Native Engineer | Full-Stack Mobile & Web Engineer | Team Lead | OTTPlay 10M+ Downloads
 
 I build and lead practical product engineering across mobile apps, web apps, backend systems, ERPs, and AI-assisted workflows.
 
@@ -21,11 +21,11 @@ I build and lead practical product engineering across mobile apps, web apps, bac
 
 ## Profile
 
-I am a founding engineer and hands-on product engineer with 10 years across customer-facing delivery, mobile apps, web apps, backend systems, ERPs, and product platforms.
+I am a Senior Mobile / React Native Engineer and full-stack mobile/web engineer with 10 years across customer-facing delivery, mobile apps, web apps, backend systems, ERPs, and product platforms.
 
-I co-founded and led Infinity Pillars, a B2B software agency that ran for seven years. I started as the solo full-stack/mobile-web engineer on early client projects, then gradually scaled delivery into an 11-12 person team. We delivered 25+ client projects and launched/maintained 5+ longer-running production systems across chat, intercity cab booking, online education video streaming, employee management, laundry booking, logistics management, ERPs, dashboards, and other business domains.
+I worked at Infinity Pillars as a full-stack mobile and web engineer in a B2B software agency that ran for seven years, including two years serving as team lead for an 11-12 person team. We delivered 25+ client projects and launched/maintained 5+ longer-running production systems across chat, intercity cab booking, online education video streaming, employee management, laundry booking, logistics management, ERPs, dashboards, and other business domains.
 
-After that, I worked as a Founding Engineer (Mobile) on OTTPlay via Wrocus/HT Media at 10M+ download scale. I stayed hands-on while leading mobile delivery: coded major React Native/native Android/iOS features, fixed difficult development blockers for myself and other developers, reviewed PRs, coordinated backend/API work, and prepared builds for QA as the development-quality layer before final testing.
+After that, I worked as a Senior Mobile Engineer / Mobile App Team Lead on OTTPlay via Wrocus/HT Media at 10M+ download scale. I stayed hands-on while leading mobile delivery: coded major React Native/native Android/iOS features, fixed difficult development blockers for myself and other developers, reviewed PRs, coordinated backend/API work, and prepared builds for QA as the development-quality layer before final testing.
 
 I also build practical AI/product automation projects such as WittyKeys, AI-SDR, and SFOS. These are supporting projects that show current fluency with AI-assisted engineering, QA automation, evaluation loops, and workflow design while keeping my main profile grounded in full-stack/mobile product engineering.
 
@@ -35,8 +35,8 @@ I also build practical AI/product automation projects such as WittyKeys, AI-SDR,
 
 | Period | Role | Focus |
 | --- | --- | --- |
-| 2024-2026 | Founding Engineer (Mobile), OTTPlay via Wrocus/HT Media | React Native, native Android/iOS, native feature bridging, nested screen performance, video playback reliability, PR review, QA handoff, release quality, 10M+ download product scale |
-| 2017-2024 | Co-Founder & Tech Lead, Infinity Pillars | B2B software agency, solo-to-team full-stack/mobile-web delivery, 11-12 person team, 25+ delivered projects, 5+ maintained production systems |
+| 2024-2026 | Senior Mobile Engineer / Mobile App Team Lead, OTTPlay via Wrocus/HT Media | React Native, native Android/iOS, native feature bridging, nested screen performance, video playback reliability, PR review, QA handoff, release quality, 10M+ download product scale |
+| 2017-2024 | Full-Stack Mobile & Web Engineer / Team Lead, Infinity Pillars | B2B software agency, solo-to-team full-stack/mobile-web delivery, 11-12 person team, 25+ delivered projects, 5+ maintained production systems |
 | 2015-2017 | Full-Stack Native Android Developer, Steady Rabbit | Native Android, backend/API integration, full mobile SDLC |
 
 ---
@@ -48,7 +48,7 @@ I also build practical AI/product automation projects such as WittyKeys, AI-SDR,
     <td width="50%" valign="top">
       <h3>OTTPlay</h3>
       <p><strong>10M+ download OTT aggregation product.</strong></p>
-      <p>Worked as Founding Engineer (Mobile) on OTTPlay via Wrocus/HT Media, supporting React Native delivery, native Android/iOS features, nested screen performance, player reliability, PR review, QA handoff, release quality, and mobile team execution.</p>
+      <p>Worked as Senior Mobile Engineer / Mobile App Team Lead on OTTPlay via Wrocus/HT Media, supporting React Native delivery, native Android/iOS features, nested screen performance, player reliability, PR review, QA handoff, release quality, and mobile team execution.</p>
       <p><a href="https://play.google.com/store/apps/details?hl=en_US&id=com.ht.ottplay">Google Play</a> · <a href="https://apps.apple.com/us/app/ottplay/id1536115085">iOS App Store</a></p>
     </td>
     <td width="50%" valign="top">
@@ -90,7 +90,7 @@ Best-fit roles, in current search priority:
 
 - Forward Deployed Engineer / Solutions Engineer / Customer Engineer
 - Senior React Native / Senior Mobile / Principal Mobile Engineer
-- Founding Engineer / Tech Lead / Engineering Lead
+- Full-Stack Mobile & Web Engineer / Tech Lead / Engineering Lead
 - Selective Senior Full-Stack / Product Engineer roles where the stack and ownership are a clean match
 
 ---
@@ -116,7 +116,7 @@ Best-fit roles, in current search priority:
 
 <div align="center">
 
-Currently open to FDE/customer-solutions roles, senior React Native/mobile roles, hands-on tech lead/founding engineer roles, and selective full-stack roles where the stack and ownership are clean fits.
+Currently open to FDE/customer-solutions roles, senior React Native/mobile roles, hands-on tech lead/full-stack mobile and web engineer roles, and selective full-stack roles where the stack and ownership are clean fits.
 
 <strong>Portfolio:</strong> <a href="https://wittykeys.com/abhishek">wittykeys.com/abhishek</a> ·
 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhishek-wittykeys">abhishek-wittykeys</a>
