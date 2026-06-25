@@ -84,6 +84,28 @@ I also build practical AI/product automation projects such as WittyKeys, AI-SDR,
 
 ---
 
+## Product Portfolio Highlights
+
+The full visual project library is on my portfolio: [wittykeys.com/abhishek](https://wittykeys.com/abhishek). These are included as product/system proof; some older client or company projects do not have public repositories.
+
+| Project | Type | What it shows |
+| --- | --- | --- |
+| OTTPlay | Mobile OTT product | 10M+ download React Native/native Android/iOS product, playback reliability, release quality, mobile team leadership |
+| WittyKeys | Live Android AI product | Android keyboard, AI writing assistant, billing/quota flows, Play Store release |
+| AI-SDR | Applied AI workflow | Human-in-loop lead research, draft generation, approval queues, observability |
+| Accelerate | Mobile app / web app / dashboard | E-learning platform with video learning, written lectures, progress tracking, Next.js/NestJS/React Native architecture |
+| Nawee | Mobile app / web app / dashboard | Logistics platform with parcel tracking, multi-recipient delivery flows, operations dashboard, full-stack ownership |
+| Fankeys | Mobile app | Creator marketplace with profiles, discovery, chat, wallet/content flows, and full mobile delivery ownership |
+| Aquses | Mobile apps / dashboard / backend | Laundry booking and tracking software system with customer, delivery/operations, admin, and server surfaces |
+| PrepUni | Mobile app / admin / website / backend | Education product system with learner app, admin platform, website, and backend |
+| Sampriti | User app / driver app / admin / backend | Multi-role operations system across customer, driver, admin, and server layers |
+| Lawgician | Mobile app / dashboard / backend | Legal-tech product system with user app, dashboard, and backend services |
+| PlayerZaf | Mobile app / dashboard / backend | Esports platform with mobile experience, admin dashboard, and server |
+| Panzen | Dashboard / backend | Restaurant operations dashboard and backend system |
+| LongDriveCars / Cococars | Mobile apps | Intercity ride booking mobile app systems |
+
+---
+
 ## Public Repositories To Review First
 
 | Repo | Why it matters |
