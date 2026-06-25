@@ -88,21 +88,27 @@ I also build practical AI/product automation projects such as WittyKeys, AI-SDR,
 
 The full visual project library is on my portfolio: [wittykeys.com/abhishek](https://wittykeys.com/abhishek). These are included as product/system proof; some older client or company projects do not have public repositories.
 
-| Project | Type | What it shows |
-| --- | --- | --- |
-| OTTPlay | Mobile OTT product | 10M+ download React Native/native Android/iOS product, playback reliability, release quality, mobile team leadership |
-| WittyKeys | Live Android AI product | Android keyboard, AI writing assistant, billing/quota flows, Play Store release |
-| AI-SDR | Applied AI workflow | Human-in-loop lead research, draft generation, approval queues, observability |
-| Accelerate | Mobile app / web app / dashboard | E-learning platform with video learning, written lectures, progress tracking, Next.js/NestJS/React Native architecture |
-| Nawee | Mobile app / web app / dashboard | Logistics platform with parcel tracking, multi-recipient delivery flows, operations dashboard, full-stack ownership |
-| Fankeys | Mobile app | Creator marketplace with profiles, discovery, chat, wallet/content flows, and full mobile delivery ownership |
-| Aquses | Mobile apps / dashboard / backend | Laundry booking and tracking software system with customer, delivery/operations, admin, and server surfaces |
-| PrepUni | Mobile app / admin / website / backend | Education product system with learner app, admin platform, website, and backend |
-| Sampriti | User app / driver app / admin / backend | Multi-role operations system across customer, driver, admin, and server layers |
-| Lawgician | Mobile app / dashboard / backend | Legal-tech product system with user app, dashboard, and backend services |
-| PlayerZaf | Mobile app / dashboard / backend | Esports platform with mobile experience, admin dashboard, and server |
-| Panzen | Dashboard / backend | Restaurant operations dashboard and backend system |
-| LongDriveCars / Cococars | Mobile apps | Intercity ride booking mobile app systems |
+| Project | Type | What it shows | Repository links |
+| --- | --- | --- | --- |
+| OTTPlay | Mobile OTT product | 10M+ download React Native/native Android/iOS product, playback reliability, release quality, mobile team leadership | Company codebase; repo not public |
+| WittyKeys | Live Android AI product | Android keyboard, AI writing assistant, billing/quota flows, Play Store release | [Android app](https://github.com/sentient-code/wittykeys-app-public) · [Server](https://github.com/sentient-code/wittykeys-server-public) |
+| AI-SDR | Applied AI workflow | Human-in-loop lead research, draft generation, approval queues, observability | [Public repo](https://github.com/sentient-code/ai-sdr-public) |
+| Accelerate | Mobile app / web app / dashboard | E-learning platform with video learning, written lectures, progress tracking, Next.js/NestJS/React Native architecture | Repo link pending |
+| Nawee | Mobile app / web app / dashboard | Logistics platform with parcel tracking, multi-recipient delivery flows, operations dashboard, full-stack ownership | Repo link pending |
+| Fankeys | Mobile app | Creator marketplace with profiles, discovery, chat, wallet/content flows, and full mobile delivery ownership | Repo link pending |
+| Aquses | Mobile apps / dashboard / backend | Laundry booking and tracking software system with customer, delivery/operations, admin, and server surfaces | [User](https://github.com/abhi8938/Aquses_User) · [Delivery](https://github.com/abhi8938/Aquses_Delivery) · [Dashboard](https://github.com/abhi8938/Aquses_Dashboard) · [Server](https://github.com/abhi8938/Aquses_Server) |
+| PrepUni | Mobile app / admin / website / backend | Education product system with learner app, admin platform, website, and backend | [User](https://github.com/abhi8938/PrepUni_User) · [Admin](https://github.com/abhi8938/PrepUni_Admin) · [Website](https://github.com/abhi8938/PrepUni_Website) · [Server](https://github.com/abhi8938/PrepUni_Server) |
+| Sampriti | User app / driver app / admin / backend | Multi-role operations system across customer, driver, admin, and server layers | [User](https://github.com/abhi8938/Sampriti_User) · [Driver](https://github.com/abhi8938/Sampriti_Driver) · [Admin](https://github.com/abhi8938/Sampriti_Admin) · [Server](https://github.com/abhi8938/Sampriti_Server) |
+| Lawgician | Mobile app / dashboard / backend | Legal-tech product system with user app, dashboard, and backend services | [User](https://github.com/abhi8938/Lawgician_User) · [Dashboard](https://github.com/abhi8938/Lawgician_Dashboard) · [Server](https://github.com/abhi8938/Lawgician_Server) |
+| PlayerZaf | Mobile app / dashboard / backend | Esports platform with mobile experience, admin dashboard, and server | [Mobile app](https://github.com/abhi8938/PlayerZaf) · [Dashboard](https://github.com/abhi8938/PlayerZaf_Dashboard) · [Server](https://github.com/abhi8938/PlayerZaf_server) |
+| Panzen | Dashboard / backend | Restaurant operations dashboard and backend system | [Dashboard](https://github.com/abhi8938/panzen) · [Server](https://github.com/abhi8938/panzen_server) |
+| LongDriveCars / Cococars | Mobile apps | Intercity ride booking mobile app systems | [LongDriveCars](https://github.com/abhi8938/Longdrivecars) · [Cococars](https://github.com/abhi8938/Cococars_User) |
+| PrepCet | Mobile app / backend | Education and test preparation product system | [User](https://github.com/abhi8938/Prepcet_User) · [Server](https://github.com/abhi8938/PrepCet_Server) |
+| Siapmart | Mobile app | Grocery/local commerce React Native app | [Mobile app](https://github.com/abhi8938/Siapmart) |
+| Masala Story Admin | Dashboard | Restaurant operations/admin dashboard | [Dashboard](https://github.com/abhi8938/masala_admin) |
+| Grocerx | Backend | Grocery/commerce backend service | [Server](https://github.com/abhi8938/Grocerx) |
+| EPUB Reader | Mobile app | Ebook reader with highlights, notes, and reading workflows | [Mobile app](https://github.com/abhi8938/Epub_Reader) |
+| React Native Net Speed Checker | Library | Mobile networking utility/package | [Package repo](https://github.com/abhi8938/react-native-net-speed-checker) |
 
 ---
 
