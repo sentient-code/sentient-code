@@ -2,9 +2,9 @@
 
 # Abhishek Singh
 
-### Senior Mobile / React Native Engineer | Full-Stack Mobile & Web Engineer | Team Lead | OTTPlay 10M+ Downloads
+### Senior Mobile / React Native / Android Engineer | OTTPlay 10M+ Downloads | Mobile AI Product Builder
 
-I build and lead practical product engineering across mobile apps, web apps, backend systems, ERPs, and AI-assisted workflows.
+I build senior-level mobile systems across React Native, native Android/iOS, backend/API boundaries, release quality, and practical AI product workflows.
 
 <p>
   <a href="https://wittykeys.com/abhishek"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-wittykeys.com%2Fabhishek-0891B2?style=for-the-badge"></a>
@@ -13,7 +13,7 @@ I build and lead practical product engineering across mobile apps, web apps, bac
   <a href="https://play.google.com/store/apps/details?id=project.witty.keys&hl=en_US"><img alt="Play Store" src="https://img.shields.io/badge/Google%20Play-WittyKeys-414141?style=for-the-badge&logo=googleplay&logoColor=white"></a>
 </p>
 
-`Forward Deployed Engineering` · `Solutions Engineering` · `React Native` · `React` · `Next.js` · `Node.js` · `NestJS` · `Native Android` · `iOS` · `Firebase` · `AWS` · `Customer Workflows` · `Product Systems` · `Team Leadership` · `QA Automation` · `AI-assisted engineering`
+`Senior Mobile Engineering` · `React Native` · `Native Android` · `iOS` · `InputMethodService` · `ExoPlayer` · `AVPlayer` · `Firebase` · `Node.js` · `TypeScript` · `Release Quality` · `Team Leadership` · `AI-assisted engineering`
 
 </div>
 
@@ -21,13 +21,13 @@ I build and lead practical product engineering across mobile apps, web apps, bac
 
 ## Profile
 
-I am a Senior Mobile / React Native Engineer and full-stack mobile/web engineer with 10 years across customer-facing delivery, mobile apps, web apps, backend systems, ERPs, and product platforms.
+I am a Senior Mobile / React Native / Android Engineer with 10 years across mobile apps, native Android, React Native, backend/API integration, web dashboards, ERPs, and product platforms.
 
 I worked at Infinity Pillars as a full-stack mobile and web engineer in a B2B software agency that ran for seven years, including two years serving as team lead for an 11-12 person team. We delivered 25+ client projects and launched/maintained 5+ longer-running production systems across chat, intercity cab booking, online education video streaming, employee management, laundry booking, logistics management, ERPs, dashboards, and other business domains.
 
 After that, I worked as a Senior Mobile Engineer / Mobile App Team Lead on OTTPlay via Wrocus/HT Media at 10M+ download scale. I stayed hands-on while leading mobile delivery: coded major React Native/native Android/iOS features, fixed difficult development blockers for myself and other developers, reviewed PRs, coordinated backend/API work, and prepared builds for QA as the development-quality layer before final testing.
 
-I also build practical AI/product automation projects such as WittyKeys, AI-SDR, and SFOS. These are supporting projects that show current fluency with AI-assisted engineering, QA automation, evaluation loops, and workflow design while keeping my main profile grounded in full-stack/mobile product engineering.
+I also build practical AI/product automation projects such as WittyKeys, AI-SDR, and SFOS. These show current fluency with mobile AI, AI-assisted engineering, QA automation, evaluation loops, and workflow design while keeping my main profile grounded in senior mobile product engineering.
 
 ---
 
@@ -84,13 +84,40 @@ I also build practical AI/product automation projects such as WittyKeys, AI-SDR,
 
 ---
 
+## Public Repositories To Review First
+
+| Repo | Why it matters |
+| --- | --- |
+| [wittykeys-app-public](https://github.com/sentient-code/wittykeys-app-public) | Public-safe Android AI keyboard showcase: InputMethodService, AOSP LatinIME, overlay assistant, Claude actions, billing/quota states, and Play Store release discipline. |
+| [wittykeys-server-public](https://github.com/sentient-code/wittykeys-server-public) | Firebase/TypeScript backend boundary for mobile AI entitlements, Google Play subscription handling, Firestore quota state, FCM, and tests. |
+| [ai-sdr-public](https://github.com/sentient-code/ai-sdr-public) | Human-in-loop applied AI workflow system with Claude-assisted drafting, approval queues, observability, and connector boundaries. |
+| [react-native-net-speed-checker](https://github.com/abhi8938/react-native-net-speed-checker) | Earlier React Native utility package showing mobile library work and networking-focused implementation. |
+
+---
+
+## Earlier Product Systems
+
+These are older code-derived portfolio samples from my full-stack mobile delivery phase. They are included to show breadth across React Native apps, dashboards, backend services, education, delivery, legal-tech, restaurant operations, and esports; they are not presented as actively maintained current products.
+
+| Product system | Repositories |
+| --- | --- |
+| Aquses | [User](https://github.com/abhi8938/Aquses_User) · [Delivery](https://github.com/abhi8938/Aquses_Delivery) · [Dashboard](https://github.com/abhi8938/Aquses_Dashboard) · [Server](https://github.com/abhi8938/Aquses_Server) |
+| PrepUni | [User](https://github.com/abhi8938/PrepUni_User) · [Admin](https://github.com/abhi8938/PrepUni_Admin) · [Website](https://github.com/abhi8938/PrepUni_Website) · [Server](https://github.com/abhi8938/PrepUni_Server) |
+| Sampriti | [User](https://github.com/abhi8938/Sampriti_User) · [Driver](https://github.com/abhi8938/Sampriti_Driver) · [Admin](https://github.com/abhi8938/Sampriti_Admin) · [Server](https://github.com/abhi8938/Sampriti_Server) |
+| Lawgician | [User](https://github.com/abhi8938/Lawgician_User) · [Dashboard](https://github.com/abhi8938/Lawgician_Dashboard) · [Server](https://github.com/abhi8938/Lawgician_Server) |
+| PrepCet | [User](https://github.com/abhi8938/Prepcet_User) · [Server](https://github.com/abhi8938/PrepCet_Server) |
+| PlayerZaf | [Mobile app](https://github.com/abhi8938/PlayerZaf) · [Dashboard](https://github.com/abhi8938/PlayerZaf_Dashboard) · [Server](https://github.com/abhi8938/PlayerZaf_server) |
+| Panzen | [Dashboard](https://github.com/abhi8938/panzen) · [Server](https://github.com/abhi8938/panzen_server) |
+
+---
+
 ## Where I Fit
 
 Best-fit roles, in current search priority:
 
-- Forward Deployed Engineer / Solutions Engineer / Customer Engineer
 - Senior React Native / Senior Mobile / Principal Mobile Engineer
 - Full-Stack Mobile & Web Engineer / Tech Lead / Engineering Lead
+- Selective Forward Deployed Engineer / Solutions Engineer roles where mobile, product systems, or applied AI proof is a clean match
 - Selective Senior Full-Stack / Product Engineer roles where the stack and ownership are a clean match
 
 ---
@@ -116,7 +143,7 @@ Best-fit roles, in current search priority:
 
 <div align="center">
 
-Currently open to FDE/customer-solutions roles, senior React Native/mobile roles, hands-on tech lead/full-stack mobile and web engineer roles, and selective full-stack roles where the stack and ownership are clean fits.
+Currently open to senior React Native/mobile roles, hands-on tech lead/full-stack mobile and web engineer roles, selective senior full-stack roles, and FDE/customer-solutions roles where mobile, product systems, or applied AI proof is a clean fit.
 
 <strong>Portfolio:</strong> <a href="https://wittykeys.com/abhishek">wittykeys.com/abhishek</a> ·
 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhishek-wittykeys">abhishek-wittykeys</a>
